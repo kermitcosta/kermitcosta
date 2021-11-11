@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm currently learning 
+I've always been a technology enthusiast but I left this passion dormant while I studied Administration. Now I feel ready and excited like never before to learn and dive into the world of development.🤩
 
 ## Languages and Tools
 
