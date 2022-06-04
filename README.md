@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> Hello World, I'm Kermit!! 
+##Hello World, I'm Kermit!! 
 
 :house_with_garden: I’m from Brazil.
 
