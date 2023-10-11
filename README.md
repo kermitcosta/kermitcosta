@@ -1,16 +1,3 @@
-## Hello World, I'm Kermit!! 
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning HTML, CSS and JavaScript.
-
-## About Me
-
-I've always been a technology enthusiast but I left this passion dormant while I studied Administration. Now I feel ready and excited like never before to learn and dive into the world of development.🤩
-
-## Languages and Tools
-
-![kermitcosta GitHub stats](https://github-readme-stats.vercel.app/api?username=kermitcosta&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kermitcosta&theme=github_dark)
 
 ## Socials
